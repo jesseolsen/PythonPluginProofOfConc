@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/opt/springsource/sts-3.5.1.RELEASE/plugins/org.eclipse.wst.jsdt.core_1.3.1.v201401291437.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/opt/springsource/sts-3.5.1.RELEASE/plugins/org.eclipse.wst.jsdt.ui_1.1.401.v201401171657.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/opt/eclipse_4.4/plugins/org.eclipse.jface.text.source_3.9.0.v20140521-1657.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JESSE/Downloads/Development/PyDev/PyDev 3.9.0/plugins/org.python.pydev.shared_interactive_console_3.9.0.201411111611/interactive_console.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JESSE/Downloads/Development/PyDev/PyDev 3.9.0/plugins/org.python.pydev.shared_ui_3.9.0.201411111611/shared_ui.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
