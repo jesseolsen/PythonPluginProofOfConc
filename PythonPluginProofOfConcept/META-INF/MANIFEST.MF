@@ -15,7 +15,12 @@ Require-Bundle: org.eclipse.jdt;bundle-version="3.9.1",
  org.eclipse.equinox.registry,
  org.eclipse.core.contenttype,
  org.eclipse.equinox.preferences,
- org.python.pydev
+ org.python.pydev,
+ org.python.pydev.shared_core,
+ org.python.pydev.shared_interactive_console,
+ org.python.pydev.shared_ui,
+ org.eclipse.text,
+ org.python.pydev.parser
 Import-Package: org.python.pydev.core,
  org.python.pydev.core.docutils,
  org.python.pydev.core.structure
