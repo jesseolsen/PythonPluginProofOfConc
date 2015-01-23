@@ -3,16 +3,6 @@ package com.github.EclipseChameleonPlugins;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import org.eclipse.jface.text.BadLocationException;
-import org.eclipse.jface.text.IRegion;
-import org.eclipse.jface.text.Region;
-import org.eclipse.jface.text.templates.Template;
-import org.eclipse.jface.text.templates.TemplateBuffer;
-import org.eclipse.jface.text.templates.TemplateContext;
-import org.eclipse.jface.text.templates.TemplateContextType;
-import org.eclipse.jface.text.templates.TemplateException;
-import org.eclipse.jface.text.templates.TemplateProposal;
-import org.eclipse.jface.text.templates.TemplateTranslator;
 import org.python.pydev.core.ICompletionState;
 import org.python.pydev.core.ILocalScope;
 import org.python.pydev.core.IToken;
